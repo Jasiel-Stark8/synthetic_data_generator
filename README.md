@@ -63,4 +63,4 @@ Project Link: [Project](https://github.com/Jasiel-Stark8/synthetic_data_generato
 
 ## Acknowledgments
 - OpenAI for providing access to the GPT-3.5 API.
-- [Jason Quist] for the initial development of the Synthetic Data Generator.
+- Jason Quist for the initial development of the Synthetic Data Generator.
