@@ -4,7 +4,7 @@
 The Synthetic Data Generator is a Python tool designed to leverage OpenAI's GPT-3.5 model to create realistic text data. This tool can be particularly useful for generating datasets for training machine learning models or for any scenario where large amounts of text data are needed, but privacy concerns or data availability limit the use of real data.
 
 ## Features
-- Utilizes OpenAI's powerful GPT-3.5-turbo-16k model for text generation.
+- Utilizes OpenAI's powerful GPT-3.5-turbo-16k model for text generation due to its 16k output.
 - Customizable parameters to control the diversity and uniqueness of generated text.
 - Ability to generate large datasets of synthetic text data efficiently.
 - Open-source for community collaboration and improvement.
@@ -17,4 +17,4 @@ Before you begin, ensure you have the following:
 ## Installation
 Clone the repository to your local machine using:
 ```bash
-git clone [repository-link]
+git clone [[repository-link]](https://github.com/Jasiel-Stark8/synthetic_data_generator.git)
