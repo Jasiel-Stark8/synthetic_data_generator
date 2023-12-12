@@ -38,6 +38,10 @@ synthetic_data_list = generate_synthetic_data(prompt, count=10)
 for idx, data in enumerate(synthetic_data_list):
     print(f"Data point {idx + 1}: {data}")
 ```
+Run in CLI:
+```
+python3 file.py >> data.txt
+```
 
 ## Configuration
 You can adjust the following parameters to fine-tune the data generation:
