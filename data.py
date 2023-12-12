@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR_OPENAI_API_KEY')
 
 def generate_reviews(prompt, count=1):
     reviews = []
